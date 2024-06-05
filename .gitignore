@@ -1,0 +1,10 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+Analysis/
+Data/
+Plots/
+PNG/
+*.log
+Scripts/.RData
